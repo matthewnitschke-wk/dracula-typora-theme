@@ -199,32 +199,32 @@ a:hover {
 }
 
 #write h1 {
-  font-size: 2.5em;
+  font-size: 2em;
   padding-bottom: 0.3em;
   border-bottom: 1px solid var(--text-color3);
 
 }
 
 #write h2 {
-  font-size: 2em;
+  font-size: 1.5em;
   padding-bottom: 0.3em;
   border-bottom: 1px solid var(--text-color3);
 }
 
 #write h3 {
-  font-size: 1.75em;
+  font-size: 1.25em;
 }
 
 #write h4 {
-  font-size: 1.55em;
+  font-size: 1em;
 }
 
 #write h5 {
-  font-size: 1.35em;
+  font-size: .875em;
 }
 
 #write h6 {
-  font-size: 1.2em;
+  font-size: .85em;
 }
 
 /* horizontal divider */
